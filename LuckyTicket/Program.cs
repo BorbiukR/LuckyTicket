@@ -10,7 +10,7 @@ namespace LuckyTicket
         private static readonly Dictionary<ConsoleKey, string> CommandsNames = new Dictionary<ConsoleKey, string>
         {
             {ConsoleKey.P, "Play"},
-            {ConsoleKey.Q, "Exit"},
+            {ConsoleKey.E, "Exit"},
         };
 
         public static void Main()
