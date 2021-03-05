@@ -23,4 +23,4 @@ enetered number - 12056
 
 ## Application Start
 When you double click run.bat file, the program build and starts. 
-<br/>Then you have the option to play by pressing the key [P] or to exit the program by pressing [Q]
+<br/>Then you have the option to play by pressing the key [P] or to exit the program by pressing [E]
