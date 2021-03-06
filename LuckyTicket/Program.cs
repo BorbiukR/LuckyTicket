@@ -51,7 +51,7 @@ namespace LuckyTicket
                 case ConsoleKey.P:
                     Play();
                     return true;
-                case ConsoleKey.Q:
+                case ConsoleKey.E:
                     return false;
                 default:
                     Console.WriteLine("Invalid key");
